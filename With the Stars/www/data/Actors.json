@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":4,"characterName":"main chara overworld sprites","classId":1,"equips":[1,1,1,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":3,"name":"Boy","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor3_8","characterIndex":0,"characterName":"main chara overworld sprites","classId":3,"equips":[1,0,1,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":3,"name":"Girl","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"bernard battle v2","characterIndex":0,"characterName":"saint bernard with bag full set","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":3,"name":"Dog","nickname":"","note":"","profile":""}
+]

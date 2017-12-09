@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"A plain red bandana. ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":324,"name":"Bandana","note":"","params":[0,0,0,5,0,0,0,0],"price":30},
+{"id":2,"atypeId":1,"description":"Great for blocking the sun. Def +10","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":325,"name":"Baseball Cap","note":"","params":[0,0,0,10,0,0,0,0],"price":150},
+{"id":3,"atypeId":1,"description":"Fluffy head protection. A little hot for summer.\nDef +15","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":339,"name":"Winter Cap","note":"","params":[0,0,0,15,0,0,0,0],"price":250},
+{"id":4,"atypeId":3,"description":"A collar typically worn by pets. Def +10 MAtk +5","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":341,"name":"Collar","note":"","params":[0,0,0,10,5,0,0,0],"price":150},
+{"id":5,"atypeId":3,"description":"For a really good boy. MAtk +10","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":322,"name":"Dog Treat","note":"","params":[0,0,0,0,10,0,0,0],"price":150},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

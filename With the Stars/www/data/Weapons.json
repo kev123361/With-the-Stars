@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":6,"description":"A wooden stick you can find just about anywhere.\nAtk +5","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":326,"name":"Stick","note":"","params":[0,0,5,0,5,0,0,0],"price":30,"wtypeId":1},
+{"id":2,"animationId":6,"description":"An old bat one of the kids must have found lying around.\nStill pretty solid. Atk +10","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":336,"name":"Baseball Bat","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":3,"animationId":1,"description":"A homemade slingshot. Perfect for ranged attacks.\nMAtk +10","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":323,"name":"Slingshot","note":"","params":[0,0,5,0,10,0,0,0],"price":100,"wtypeId":6},
+{"id":4,"animationId":1,"description":"The epitome of child ranged warfare.\nMAtk +20","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":320,"name":"Water Gun","note":"","params":[0,0,5,0,20,0,0,0],"price":250,"wtypeId":6},
+{"id":5,"animationId":6,"description":"You'd like to think one of the kids didn't steal this.\nAlso provides defensive boost. Atk +20 Def +5","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":321,"name":"Metal Lid","note":"","params":[0,0,20,5,0,0,0,0],"price":250,"wtypeId":2},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
