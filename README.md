@@ -2,4 +2,8 @@
 
 Collaboratively designed by Chloe Choi, Kevin Tang, Michelle Zheng.
 
-![Alt text](/Screenshots/Loop4_1.jpg?raw=true "In-Game Cutsceen")
+Character Dialogue:
+![Character Dialogue](/Screenshots/Loop4_1.PNG?raw=true "In-Game Cutscene")
+
+Combat Sequence:
+![Combat Sequence](/Screenshots/Loop4_2.PNG?raw=true "In-Game Combat")
